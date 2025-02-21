@@ -1,0 +1,5 @@
+numpy==1.24.3
+matplotlib==3.7.2
+torch==2.0.1
+scipy==1.10.1
+scikit-fmm==2023.4.2
